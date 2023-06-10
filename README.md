@@ -11,6 +11,7 @@
 ![image](https://github.com/Sellakumar1987/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/113594316/03952954-387e-4fd3-a1a0-a8dd4b82ae07)
 
 ## REQUIREMENTS:
+
 ###  ●	Mech Analyzer software.
 ###  ●	Processor: Minimum 1.5 GHz
 ###  ●	RAM: Minimum 512 MB
@@ -20,6 +21,7 @@
 ###  ●	Geometry instruments.
 
 ## PROCEDURE:
+
 ###   1. Draw a horizontal line AD of length 120 mm. 
 ###   2. At A, Draw a line AB of length 30 mm at an angle of 600 
 ###   3. With B as centre, BC = AD = 120mm draw an arc 
@@ -46,7 +48,7 @@
 ###   Thus, link CD revolves with ωcd = 4 rad/s (clockwise about D) 
 
 
-## Output:
+## OUTPUT:
 
 ![image](https://github.com/VIJAYKUMAR22007124/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119657657/5ef875e6-a2d5-4431-9750-2c6c31de8151)
 
@@ -56,4 +58,5 @@
 ### Register Number: 212222230173
 
 ## RESULT:
+
  ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
