@@ -54,9 +54,8 @@
 
 ![image](https://github.com/VIJAYKUMAR22007124/Ex.-No.-1.-SIMULATION-ANALYSIS-ON-FOUR-BAR-CHAIN-MECHANISM/assets/119657657/a23e888d-0720-4c76-9f5a-db1e6d4b2c3a)
 
-### Name: B.VIJAY KUMAR
-### Register Number: 212222230173
+#### Name: B.VIJAY KUMAR
+#### Register Number: 212222230173
 
-## RESULT:
-
- ### Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
+####  RESULT:
+ Thus the displacement & velocity analysis for the given four bar chain mechanism is simulated.
